@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zackwalton&color=green" alt="GitHub Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=zackwalton&color=green&style=for-the-badge&color=blueviolet" alt="GitHub Profile Views">
   <br>
   <br>
   <a href="https://www.linkedin.com/in/walton-zachary/">
