@@ -1,8 +1,5 @@
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zackwalton&color=green&style=for-the-badge&color=blueviolet" alt="GitHub Profile Views">
-  <br>
-  <br>
   <a href="https://www.linkedin.com/in/walton-zachary/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Zachary Walton's LinkedIn">
   </a>
